@@ -1,1 +1,3 @@
 # RAG_LLM_Pipeline_From_Scratch
+
+I created a RAG-LLM pipeline from scratch to improve the accuracy and relevance of chatbot responses. The process begins with the user inputting a query, which is then processed by the retriever component. The retriever searches through a dataset or knowledge base to find relevant documents or passages. A large language model (LLM), which synthesizes the information into a coherent and contextually relevant response. Finally, the chatbot delivers this generated response to the user, ensuring that the answers are accurate and dynamic. This RAG-LLM pipeline effectively combines retrieval and generation, enabling the chatbot to handle complex queries with greater precision.
